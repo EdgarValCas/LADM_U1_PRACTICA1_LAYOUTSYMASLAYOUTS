@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LADM_U1_PRACTICA1_LayoutsYmasLayouts</string>
+    <array name="lista1">
+        <item>bulbazur</item>
+        <item>pikachu</item>
+        <item>chikorita</item>
+        <item>squirtle</item>
+    </array>
+</resources>
